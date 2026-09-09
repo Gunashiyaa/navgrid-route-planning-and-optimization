@@ -1,0 +1,15 @@
+[
+  "tests/test_api_endpoints.py::test_dataset_stats",
+  "tests/test_api_endpoints.py::test_health_check",
+  "tests/test_api_endpoints.py::test_route_planning",
+  "tests/test_api_endpoints.py::test_scenario_creation",
+  "tests/test_api_endpoints.py::test_vessels_and_trajectories",
+  "tests/test_api_endpoints.py::test_waypoints_and_graph",
+  "tests/test_navgrid_algorithms.py::test_astar_routing",
+  "tests/test_navgrid_algorithms.py::test_haversine_distance",
+  "tests/test_navgrid_algorithms.py::test_mpdp_simplification_reduces_collinear_points",
+  "tests/test_navgrid_algorithms.py::test_nsga2_optimization",
+  "tests/test_navgrid_algorithms.py::test_scenario_replanning",
+  "tests/test_navgrid_algorithms.py::test_trajectory_builder_splits_on_temporal_gap",
+  "tests/test_navgrid_algorithms.py::test_waypoint_extraction_and_graph_construction"
+]

@@ -1,0 +1,6 @@
+{
+  "name": "NavGrid - AIS Maritime Route Planning & Optimization System",
+  "description": "AIS-based maritime route planning and multi-objective optimization system with trajectory simplification, waypoint extraction, navigation graph synthesis, and scenario replanning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
